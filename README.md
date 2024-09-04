@@ -28,3 +28,14 @@
 4단계: ui 구현 <br>
 5단계: 기능 테스트 및 버그 수정 <br>
 6단계: apk파일로 만들기
+
+### 4. 결과
+6단계 apk로 만드는 과정에서 반복된 오류에 마감기한을 못 맞춰 결국 놓아주었다.
+빌드, apk파일로 만드는 것까지 성공. 안드로이드 기기에서 오류 발생
+
+<img src="https://github.com/user-attachments/assets/1c9eb4f5-4468-4a8b-aeb5-690cd000d1bf" height="300">
+<img src="https://github.com/user-attachments/assets/fd3d5fd4-ab5a-4b66-97a2-6349cedf55f1" height="300">
+
+- 목적에 맞는 초기세팅의 중요성
+- 당장 앞에 있는 오류에 급급해하지 말 것. 근본적인 원인을 찾을 것.
+- 
