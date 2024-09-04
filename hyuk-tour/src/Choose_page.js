@@ -2,16 +2,16 @@ import React, { useState } from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, Image, Button } from 'react-native';
 
 const people = [
-    { id: 1, name: '게이서', image: require('../assets/face/chae1.jpg') },
-    { id: 2, name: '망고집사', image: require('../assets/face/woo1.jpg') },
-    { id: 3, name: '수원풀발', image: require('../assets/face/hyuk1.jpg') },
-    { id: 4, name: '아오찬쌤', image: require('../assets/face/chan1.jpg') },
-    { id: 5, name: '전라디언', image: require('../assets/face/yoon1.jpg') },
-    { id: 6, name: '그라가스', image: require('../assets/face/min1.jpg') },
-    { id: 7, name: '파란저장소', image: require('../assets/face/noh1.jpg') },
-    { id: 8, name: '원대원', image: require('../assets/face/one1.jpg') },
+    { id: 1, name: '채희서', image: require('../assets/face/chae1.jpg') },
+    { id: 2, name: '이우진', image: require('../assets/face/woo1.jpg') },
+    { id: 3, name: '권혁찬', image: require('../assets/face/hyuk1.jpg') },
+    { id: 4, name: '이찬', image: require('../assets/face/chan1.jpg') },
+    { id: 5, name: '윤태민', image: require('../assets/face/yoon1.jpg') },
+    { id: 6, name: '김민재', image: require('../assets/face/min1.jpg') },
+    { id: 7, name: '노의성', image: require('../assets/face/noh1.jpg') },
+    { id: 8, name: '원대한', image: require('../assets/face/one1.jpg') },
     { id: 9, name: '엄윤호', image: require('../assets/face/um1.jpg') },
-    { id: 10, name: '차박이', image: require('../assets/face/sano1.jpg') },
+    { id: 10, name: '황상정', image: require('../assets/face/sano1.jpg') },
 ];
 
 export default function Choose() {

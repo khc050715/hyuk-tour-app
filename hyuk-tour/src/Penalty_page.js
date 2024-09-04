@@ -2,16 +2,16 @@ import React, { useState, useRef } from 'react';
 import { View, Image, TouchableOpacity, StyleSheet, Text, Animated, Easing } from 'react-native';
 
 const slot1People = [
-    { id: 1, name: '게이서', image: require('../assets/face/chae3.jpg'), probability: 0.1 },
-    { id: 2, name: '망고집사', image: require('../assets/face/woo3.jpg'), probability: 0.1 },
-    { id: 3, name: '수원풀발', image: require('../assets/face/hyuk3.jpg'), probability: 0.1 },
-    { id: 4, name: '아오찬쌤', image: require('../assets/face/chan3.jpg'), probability: 0.1 },
-    { id: 5, name: '전라디언', image: require('../assets/face/yoon3.jpg'), probability: 0.1 },
-    { id: 6, name: '그라가스', image: require('../assets/face/min3.jpg'), probability: 0.1 },
-    { id: 7, name: '파란저장소', image: require('../assets/face/noh3.jpg'), probability: 0.1 },
-    { id: 8, name: '원대원', image: require('../assets/face/one3.jpg'), probability: 0.1 },
+    { id: 1, name: '채희서', image: require('../assets/face/chae3.jpg'), probability: 0.1 },
+    { id: 2, name: '이우진', image: require('../assets/face/woo3.jpg'), probability: 0.1 },
+    { id: 3, name: '권혁찬', image: require('../assets/face/hyuk3.jpg'), probability: 0.1 },
+    { id: 4, name: '이찬', image: require('../assets/face/chan3.jpg'), probability: 0.1 },
+    { id: 5, name: '윤태민', image: require('../assets/face/yoon3.jpg'), probability: 0.1 },
+    { id: 6, name: '김민재', image: require('../assets/face/min3.jpg'), probability: 0.1 },
+    { id: 7, name: '노의성', image: require('../assets/face/noh3.jpg'), probability: 0.1 },
+    { id: 8, name: '원대한', image: require('../assets/face/one3.jpg'), probability: 0.1 },
     { id: 9, name: '엄윤호', image: require('../assets/face/um3.jpg'), probability: 0.1 },
-    { id: 10, name: '차박이', image: require('../assets/face/sano3.jpg'), probability: 0.1 },
+    { id: 10, name: '황상정', image: require('../assets/face/sano3.jpg'), probability: 0.1 },
   ];
   
   const slot2People = [
